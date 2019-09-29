@@ -1,4 +1,4 @@
-![Tictactrip](https://fr.wikipedia.org/wiki/Tictactrip#/media/Fichier:Logo_Tictactrip.png)
+<!-- ![Tictactrip](https://fr.wikipedia.org/wiki/Tictactrip#/media/Fichier:Logo_Tictactrip.png)-->
 
 # First job for Tictactrip
 
