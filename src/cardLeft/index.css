@@ -1,0 +1,15 @@
+input {
+  font-weight: bold;
+  width: 100%;
+  height: 35px;
+  font-size: 14px;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  box-sizing: border-box;
+  outline: none;
+}
+.selected {
+  border: 1px solid #1fe0a8;
+}
